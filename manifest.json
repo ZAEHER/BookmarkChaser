@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Bookmark Chaser",
+  "version": "1.1.1",
+  "description": "Chases sites that change their domain extension. Visit a tracked site on its new domain and your bookmark updates itself.",
+  "author": "Vikas Tewatia",
+  "homepage_url": "https://chromewebstore.google.com/detail/njkedjbdaahfeceabaeocjgbggikiapn",
+  "permissions": ["bookmarks", "storage", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Bookmark Chaser"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
