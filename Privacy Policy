@@ -1,0 +1,21 @@
+Privacy Policy — Bookmark Chaser
+Last updated: 10 July 2026
+
+Bookmark Chaser does not collect, store, transmit, or sell any user data.
+
+What the extension accesses and why
+Bookmarks — The extension reads your bookmarks so you can choose which sites to track, and it deletes/recreates a bookmark when a tracked site moves to a new domain. Bookmark data never leaves your browser.
+Visited page URLs (tabs permission) — The extension checks the address of pages you visit solely to detect when a tracked site appears on a new domain extension. URLs are not recorded, except that when a tracked site changes domain, the old and new domain names are saved to a local history log you can view and clear at any time.
+Local storage — Your tracked-site list and the history log are stored locally on your device using the browser's extension storage. This data is never transmitted anywhere.
+
+What the extension does NOT do
+No data is sent to any server. The extension makes no network requests at all.
+No analytics, tracking, or advertising of any kind.
+No personal information is collected.
+No data is shared or sold to third parties.
+
+Data removal
+All data is stored locally. Uninstalling the extension permanently deletes everything it stored. You can also clear the history log from the extension popup at any time.
+Contact
+
+For questions about this policy, contact the developer on Instagram: @VikasTewatia01
